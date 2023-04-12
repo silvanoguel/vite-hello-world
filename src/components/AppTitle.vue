@@ -7,9 +7,6 @@ export default {
             text: "La mia prima app con Vite!"
         }
     },
-    methods: {
-
-    }
 }
 
 </script>
